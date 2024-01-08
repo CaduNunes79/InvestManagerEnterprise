@@ -69,7 +69,7 @@ namespace IME.Identity.API.Controllers
 
             if (result.IsLockedOut)
             {
-                AddProccessError("User temporary locked for many invalid login");
+                AddProccessError("User temporary locked for many invalid login.");
                 return CustomReponse();
             }
 
