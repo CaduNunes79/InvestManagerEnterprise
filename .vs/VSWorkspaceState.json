@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\scr",
-    "\\scr\\services",
-    "\\scr\\services\\IME.Identity.API",
-    "\\scr\\services\\IME.Identity.API\\Models",
-    "\\scr\\services\\IME.Stockmarket.API",
-    "\\scr\\services\\IME.Stockmarket.API\\Models"
+    "\\src\\building blocks",
+    "\\src\\services",
+    "\\src\\services\\WEAB.Identity.API",
+    "\\src\\web"
   ],
-  "SelectedNode": "\\scr",
+  "SelectedNode": "\\WEAB - Web Enterprise App Builder.sln",
   "PreviewInSolutionExplorer": false
 }

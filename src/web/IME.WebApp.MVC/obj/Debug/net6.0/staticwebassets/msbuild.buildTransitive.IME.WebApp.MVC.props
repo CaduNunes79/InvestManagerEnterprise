@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\IME.WebApp.MVC.props" />
-</Project>
